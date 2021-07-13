@@ -1,0 +1,31 @@
+.input {
+  border: solid black 1px;
+}
+.list {
+  list-style: none;
+}
+.hidden {
+  display: none;
+}
+.card {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  color: rebeccapurple;
+  margin-bottom: 20px;
+  background-color: seashell;
+}
+.card2 {
+  background-color: rebeccapurple;
+  color: seashell;
+}
+.childCard {
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  width: 200px;
+}
+.favouriteSeries {
+  border: solid rebeccapurple 1px;
+}
